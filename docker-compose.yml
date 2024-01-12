@@ -33,5 +33,5 @@ services:
       - POSTGRES_PASSWORD=changeme
 
 
-volumes: 
+volumes:
   dev-db-data:
